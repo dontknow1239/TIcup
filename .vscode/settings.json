@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "mpu6050.h": "c",
+        "cmath": "c",
+        "type_traits": "c",
+        "delay.h": "c",
+        "compare": "c",
+        "concepts": "c",
+        "exception": "c",
+        "limits": "c",
+        "typeinfo": "c",
+        "allheader.h": "c"
+    }
+}
